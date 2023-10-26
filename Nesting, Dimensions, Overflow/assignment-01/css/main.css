@@ -1,0 +1,27 @@
+ div div span.title{
+    color: red;
+
+}
+ span.title{
+    color: blue;
+
+}
+
+ p,
+.title{
+    color: green;
+} 
+
+/* another solution */
+.parent .child .title{
+    color:red;
+  }
+  
+  .parent .title{
+    color:blue;
+  }
+  
+  .title,
+  p {
+    color: green;
+  }
