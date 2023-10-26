@@ -1,0 +1,23 @@
+div{
+  
+  
+     background-color: #EEE;
+    color: black;
+    border-left-width: 5px;
+    width: 400px;
+    margin: 40px;
+    padding: 30px;
+    border-left-style: solid; 
+    outline: 10px solid #eee;
+}
+.Note-1{
+border-left-color:  red ;
+
+}
+.Note-2{
+    border-left-color: black ;
+    visibility: hidden;
+}
+.Note-3{
+    border-left-color: greenyellow;
+}
