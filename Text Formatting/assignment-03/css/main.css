@@ -1,0 +1,15 @@
+div{
+    background-color: #eee;
+    color: black;
+    width: 400px;
+    line-height: 160%;
+    margin: 20px auto;
+    padding: 30px;
+    
+}
+
+.p3{
+text-overflow: ellipsis;
+white-space: nowrap;
+overflow: hidden;
+}
