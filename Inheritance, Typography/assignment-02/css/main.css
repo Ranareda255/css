@@ -1,0 +1,25 @@
+p{
+    color: black;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+
+.one{
+  
+    font-style: italic ;
+    font-family: 'Open Sans', sans-serif;
+  
+}
+.two{
+  
+    font-style: italic ;
+    font-family: 'Cairo', sans-serif;
+    
+}
+.three{
+   
+    font-style: italic ;
+    font-family: 'Jomhuria', cursive;
+
+}
